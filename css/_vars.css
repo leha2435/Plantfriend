@@ -1,0 +1,24 @@
+:root {
+--1: #f8f8f8;
+--2: #b6c7aa;
+--3: #f6e6cb;
+--4: #e7d4b5;
+--5: #a0937d;
+--black: #000;
+--9: rgba(144, 211, 97, 0.47);
+--10: rgba(160, 147, 125, 0.39);
+--11: rgba(182, 199, 170, 0.47);
+
+--font-family: "Inter", sans-serif;
+--second-family: "Playfair Display", sans-serif;
+
+/* --main-trs: color 0.3s ease, border-color 0.3s ease, background-color 0.3s ease; */
+
+--container-width: 1920px;
+--container-offset: 15px;
+
+--outline: 2px dashed currentColor;
+--outline-offset: 3px;
+
+--header-size: 72.97px;
+}
